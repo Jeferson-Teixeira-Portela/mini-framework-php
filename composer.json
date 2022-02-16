@@ -1,0 +1,13 @@
+{
+    "name": "mini/mini-framework-php",
+    "authors": [{
+        "name": "Jeferson Teixeira Portela",
+        "email": "j.teixeira.portela@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {}
+}
