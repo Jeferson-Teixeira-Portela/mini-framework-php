@@ -1,9 +1,9 @@
 {% extends 'partials/body.twig.php' %}
 
-{% block title %}Home - Mini FrameWork{% endblock %}
+{% block title %}Quem Somos{% endblock %}
 
 {% block body %}
 <div class="max-width center-screen bg-white padding">
-    <h1>Home Page</h1>
+    <h1>Quem Somos</h1>
 </div>
 {% endblock %}

@@ -1,10 +1,22 @@
 :root {
-    --main-bg-color: coral;
+    --main-bg-color: #edf0f5;
 }
 
 .max-width {
     max-width: 1024px;
     width: 100%;
+}
+
+.center-screen {
+    margin: 0 auto;
+}
+
+.bg-white {
+    background-color: #FFFFFF;
+}
+
+.padding {
+    padding: 5px;
 }
 
 body {

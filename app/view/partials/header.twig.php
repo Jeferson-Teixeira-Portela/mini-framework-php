@@ -9,16 +9,16 @@
             <div class="collapse navbar-collapse" id="navbarColor01">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Home<span class="visually-hidden">(current)</span></a>
+                        <a class="nav-link active" href="{{BASE}}">Home<span class="visually-hidden">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="categoria">Categoria</a>
+                        <a class="nav-link" href="{{BASE}}cep">CEP</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="quem-somos">Quem Somos</a>
+                        <a class="nav-link" href="{{BASE}}quem-somos">Quem Somos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contato">Contato</a>
+                        <a class="nav-link" href="{{BASE}}contato">Contato</a>
                     </li>
                 </ul>
             <form class="d-flex">
