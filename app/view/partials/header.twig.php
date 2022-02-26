@@ -21,8 +21,8 @@
                         <a class="nav-link" href="{{BASE}}contato">Contato</a>
                     </li>
                 </ul>
-            <form class="d-flex">
-                <input class="form-control me-sm-2" type="text" placeholder="Search">
+            <form class="d-flex" method="get" action="{{BASE}}pesquisa">
+                <input class="form-control me-sm-2" type="text" placeholder="Pesquisar" name="pes">
                 <button class="btn btn-info my-2 my-sm-0" type="submit">Buscar</button>
             </form>
             </div>
